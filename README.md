@@ -8,7 +8,7 @@ This project contains a proprietary Python tool designed for advanced scraping o
 
 The tool leverages automated browser control through Selenium WebDriver to navigate listings, paginate through all search results, and extract detailed contact information — including phone numbers and WhatsApp contacts — with high accuracy and reliability.
 
----
+--- 
 
 ## Key Functionalities
 
