@@ -36,18 +36,6 @@ This tool is intended **strictly for internal security research and analysis pur
 
 - **Demonstrating Automation Technical Capabilities:** Showcases advanced automated interaction with JavaScript-heavy web pages, useful for broader data extraction challenges.
 
----
-
-## Ethical Notice & Usage Restrictions
-
-- This tool contains sensitive automation techniques designed to mimic human browsing behavior.
-
-- The source code is **proprietary and confidential**, and is **not distributed publicly** to prevent misuse or unauthorized duplication.
-
-- Usage is restricted to authorized personnel for **security improvement purposes only**.
-
-- Users must comply with all applicable laws, website terms of service, and ethical guidelines when deploying scraping technologies.
-
 - Please contact the appropriate security teams before attempting any data extraction on live platforms you do not own.
 
 ---
@@ -62,7 +50,7 @@ This tool is intended **strictly for internal security research and analysis pur
 
 4. **Contact Extraction:** For each firm, visits the profile page, scrolls contact panels to force dynamic loading, and extracts phone numbers and decoded WhatsApp links.
 
-5. **Data Output:** Compiles all collected information into a timestamped text file with a structured summary.
+6. **Data Output:** Compiles all collected information into a timestamped text file with a structured summary.
 
 ---
 
@@ -77,13 +65,3 @@ This tool is intended **strictly for internal security research and analysis pur
 - Decodes obfuscated contact links (Base64 encoded WhatsApp URLs).
 
 ---
-
-## Conclusion
-
-This scraper tool is a sophisticated internal asset designed to support security testing and enhance data protection on the 2GIS platform.
-
-By carefully benchmarking and demonstrating scraping methods, it helps ensure that contact information exposure aligns with privacy and security best practices — ultimately improving user trust and platform integrity.
-
----
-
-*For further information or access, please contact the author internally. Unauthorized copying or distribution is prohibited.*
