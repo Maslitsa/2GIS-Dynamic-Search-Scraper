@@ -1,4 +1,4 @@
-# 2GIS Dynamic Search Scraper - Private Tool Overview
+# 2GIS Dynamic Search Scraper
 
 ---
 
