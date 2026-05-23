@@ -63,5 +63,5 @@ This tool is intended **strictly for internal security research and analysis pur
 - Handles dynamic, JS-rendered content using explicit waits and JavaScript execution.
 
 - Decodes obfuscated contact links (Base64 encoded WhatsApp URLs).
-
+ 
 ---
