@@ -39,6 +39,17 @@ This tool is intended **strictly for internal security research and analysis pur
 - Please contact the appropriate security teams before attempting any data extraction on live platforms you do not own.
 
 ---
+## Technical Environment
+
+- Written in **Python 3**.
+
+- Uses **Selenium WebDriver** with ChromeDriver managed via `webdriver-manager`.
+
+- Handles dynamic, JS-rendered content using explicit waits and JavaScript execution.
+
+- Decodes obfuscated contact links (Base64 encoded WhatsApp URLs).
+
+---
 
 ## How the Tool Works (Conceptual Overview)
 
@@ -52,16 +63,4 @@ This tool is intended **strictly for internal security research and analysis pur
 
 6. **Data Output:** Compiles all collected information into a timestamped text file with a structured summary.
 
----
-
-## Technical Environment
-
-- Written in **Python 3**.
-
-- Uses **Selenium WebDriver** with ChromeDriver managed via `webdriver-manager`.
-
-- Handles dynamic, JS-rendered content using explicit waits and JavaScript execution.
-
-- Decodes obfuscated contact links (Base64 encoded WhatsApp URLs).
- 
 ---
